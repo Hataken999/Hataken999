@@ -6,10 +6,10 @@
 ## I'm a Student, Gamer, Developer, and Weebs!!
 
 - 🔭 I like space things
-- 🌱 I’m currently learning everything (｡•̀ᴗ-)✧
+- 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Expert in 1 programming language
-- ⚡ Fun fact: I love arts and music
+- ⚡ Fun fact: I love arts 🎨 and music 🎶
 
 <br />
 <br />
