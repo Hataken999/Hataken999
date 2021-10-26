@@ -6,10 +6,10 @@
 
 ### I'm a Student, Gamer, Developer, and Dubstep Lover🔥🔥
 
-- I like space things
-- I’m currently learning everything 😂🤣
-- I’m looking to collaborate with other developer
-- 2021 Goals: Expert in 1 programming language (i hope)
+- I like space things 🚀
+- I’m currently learning everything it's interest me 👀
+- I’m looking to collaborate with other developer 👥
+- 2021 Goals: Expert in 1 programming language (i hope) 🙃
 
 ***
 
