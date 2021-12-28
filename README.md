@@ -1,4 +1,4 @@
-## Hello~ I'm Faiz, but people call me [Hataken][website] 👀
+## Hello~ I'm [Hataken][website] 👀
 
 [![Website](https://img.shields.io/website?label=listanime.eu.org&style=for-the-badge&url=https%3A%2F%2Fwww.listanime.eu.org)](https://www.listanime.eu.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hataken16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHataken16&screen_name=Hataken16)
