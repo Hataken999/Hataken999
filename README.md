@@ -9,7 +9,7 @@
 - I like space things 🚀
 - I’m currently learning everything it's interest me 👀
 - I’m looking to collaborate with other developer 👥
-- 2021 Goals: Expert in 1 programming language (i hope) 🙃
+- 2022 Goals: Expert in 1 programming language (still the same as last year) 🙃
 
 ***
 
@@ -24,7 +24,7 @@ console.log(Hobbies)
 <details>
 <Summary>Current Projects</summary>
 
-- Developing Discord Bot 🤖
+- Developing Online Web Tools
 
 </details>
 
