@@ -5,7 +5,6 @@
 
 
 ### About Me
-
 - 🚀 I'm interested in space-related topics
 - 👀 I enjoy learning about anything that interest me
 - 👥 I'm looking to collaborate with other developers
@@ -30,14 +29,17 @@
 ### OS Used
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### Language/Tech Used
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,mongodb,java,php,bootstrap,vscode,md,discord&perline=5)
+
 ***
 
 <details>
 <summary>Current Projects</summary>
 
-- Developing online web tools
-- Developing whatsapp bot
-- Developing discord bot
+- [ ] Developing online web tools
+- [ ] Developing whatsapp bot
+- [ ] Developing discord bot
 
 </details>
 
