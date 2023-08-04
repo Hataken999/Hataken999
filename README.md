@@ -34,6 +34,9 @@
 ### Language/Tech Used
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,mongodb,java,php,cloudflare,bootstrap,express,vscode,github,md,discord,bots&perline=6&theme=dark)
 
+<a href="https://github.com/Hataken999"><img align="center" alt="Hataken999 Stats" src="https://github-readme-stats.vercel.app/api?username=Hataken999&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400" /></a>
+<a href="https://github.com/Hataken999"><img align="center" alt="Hataken999 Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Hataken999&theme=dracula&row=2&column=4" /></a>
+
 ***
 
 <details>
