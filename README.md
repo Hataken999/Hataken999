@@ -34,10 +34,12 @@
 ### Language/Tech Used
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,mongodb,java,php,cloudflare,bootstrap,express,vscode,github,md,discord,bots&perline=6&theme=dark)
 
+##
+
 <a href="https://github.com/Hataken999"><img align="center" alt="Hataken999 Stats" src="https://github-readme-stats.vercel.app/api?username=Hataken999&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400" /></a>
 <a href="https://github.com/Hataken999"><img align="center" alt="Hataken999 Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Hataken999&theme=dracula&row=2&column=4" /></a>
 
-***
+##
 
 <details>
 <summary>Current Projects</summary>
@@ -50,8 +52,10 @@
 
 <br />
 
-### Visitor Counter
-![Hataken](https://count.getloli.com/get/@Hataken999)
+### Visitor Count
+<a href="https://hataken.eu.org" target="_blank"><img src="https://count.getloli.com/get/@Hataken999?theme=rule34" alt="Hataken Moe Counter" /></a>
+
+##
 
 [Visit my portfolio][portfolio] to learn more about me. Thanks for stopping by!
 
