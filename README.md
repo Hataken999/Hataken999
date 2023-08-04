@@ -28,9 +28,11 @@
 
 ### OS Used
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Language/Tech Used
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,mongodb,java,php,bootstrap,vscode,md,discord&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,mongodb,java,php,cloudflare,bootstrap,express,vscode,github,md,discord,bots&perline=6&theme=dark)
 
 ***
 
@@ -44,6 +46,9 @@
 </details>
 
 <br />
+
+### Visitor Counter
+![Hataken](https://count.getloli.com/get/@Hataken999)
 
 [Visit my portfolio][portfolio] to learn more about me. Thanks for stopping by!
 
